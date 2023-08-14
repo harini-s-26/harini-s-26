@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harini-s-26&show_icons=true&locale=en&layout=compact" alt="harini-s-26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harini-s-26&show_icons=true&locale=en" alt="harini-s-26" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harini-s-26&" alt="harini-s-26" /></p>
